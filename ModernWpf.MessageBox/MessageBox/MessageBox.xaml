@@ -23,7 +23,7 @@
         x:Shared="False"
         GlassFrameThickness="-1"
         NonClientFrameEdges="None"
-        ResizeBorderThickness="4"
+        ResizeBorderThickness="0"
         UseAeroCaptionButtons="False" />
 
     <Style TargetType="local:MessageBox">
